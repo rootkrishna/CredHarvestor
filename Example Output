@@ -1,0 +1,3 @@
+Enter target username/email: admin@example.com
+[-] Failed: password1
+[+] Success: admin@example.com:supersecret
